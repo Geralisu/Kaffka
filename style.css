@@ -1,0 +1,22 @@
+body{
+    background-color:Crimson
+}
+table,tr,td{
+    text-align:center;margin:auto;border:1px solid 
+}
+header{
+    text-align:center; font-size:20px
+}
+h2{
+    text-align:center
+}
+li{
+    text-align:left
+}
+footer{
+    text-align: center;
+
+}
+.im{
+    text-align: center;
+}
